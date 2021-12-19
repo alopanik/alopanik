@@ -6,7 +6,7 @@
 - 📫 How to reach me: links below.
 - 😄 Pronouns: he/him
 
-📨 [email](mailto:alopanik@gmail.com) 
+📨 [email](mailto:alopanik@gmail.com)  **|** 
 👔 [linkedin](linkedin.com/in/andrewlopanik)
 
 
