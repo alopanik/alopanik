@@ -9,10 +9,9 @@
 📨 [email][email] **|** 
 👔 [linkedin][linkedin]
 
-![alt text](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/wkcmugw15pjmsqtnhoxe)
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/wkcmugw15pjmsqtnhoxe" width="200" height="400" />
-![alt text](https://upload.wikimedia.org/wikipedia/commons/b/b6/Rutgers_Scarlet_Knights_logo.svg)
-![alt text](https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/04120032/University-of-Delaware-400x400.jpg)
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/wkcmugw15pjmsqtnhoxe" width="200" height="200" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Rutgers_Scarlet_Knights_logo.svg" width="200" height="200" />
+<img src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/04120032/University-of-Delaware-400x400.jpg" width="200" height="200" />
 
 [email]: mailto:alopanik@gmail.com
 [linkedin]: linkedin.com/in/andrewlopanik
