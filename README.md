@@ -12,4 +12,4 @@
 
 
 
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/wkcmugw15pjmsqtnhoxe" width="100" height="100" /> **|** <img src="https://scarletknights.com/images/2020/9/30/WhiteR.png?width=100" width="100" height="100"/><img src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/04120032/University-of-Delaware-400x400.jpg" width="80" height="80" />
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/wkcmugw15pjmsqtnhoxe" width="100" height="100" /> **||** <img src="https://scarletknights.com/images/2020/9/30/WhiteR.png?width=100" width="100" height="100"/><img src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/04120032/University-of-Delaware-400x400.jpg" width="80" height="80" />
