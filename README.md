@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him
 
 📨 [email](mailto:alopanik@gmail.com)  **|** 
-👔 [linkedin](https://www.linkedin.com/in/andrewlopanik)
+👔 [linkedin](https://www.linkedin.com/in/andrewlopanik)  **|** 
 👨‍💻 [website](https://alopanik.com)
 
 <p align="center">
