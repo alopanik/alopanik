@@ -1,11 +1,11 @@
 <h1 align="center">Andrew Lopanik</h1>
 
 <p align="center">
-  <b>Principal Product Manager</b> &nbsp;·&nbsp; <b>Data Scientist</b> &nbsp;·&nbsp; <b>Full-stack builder</b>
+  <b>Principal Product Manager</b> &nbsp;·&nbsp; <b>Builder</b> &nbsp;·&nbsp; <b>Technical problem solver</b>
 </p>
 
 <p align="center">
-  Principal PM by day · shipping AI-native side projects by night.
+  Product, SaaS, and big data — building with Python, APIs, ML, and analytics.
 </p>
 
 <p align="center">
@@ -20,15 +20,16 @@
 
 ```text
 Principal Product Manager @ Workday
+Technical problem solver — pre-sales, product, SaaS, enterprise, big data.
+I build with Python, APIs, integrations, ML, and analytics.
 M.S. Data Science, Rutgers  ·  B.S. Marketing & MIS, University of Delaware
-Shipping product by day, building full-stack + AI-native tools by night.
-Currently deep in agentic engineering — making AI agents trustworthy enough to delegate to.
+Lately: agentic engineering — making AI agents trustworthy enough to delegate to.
 ```
 
 - 🔭 **Working on:** product at Workday as a Principal PM
 - 🎓 **Education:** M.S. Data Science, Rutgers · B.S. Marketing & MIS, University of Delaware
-- ⚙️ **Building:** agentic-engineering tooling, data apps, and a fuller full-stack skillset
-- 💬 **Ask me about:** product, analytics, data science, and AI agent workflows
+- ⚙️ **Building:** agentic-engineering tooling, data apps, and AI-native side projects
+- 💬 **Ask me about:** product, SaaS, data & analytics, and AI agent workflows
 - 📫 **Reach me:** [email](mailto:alopanik@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andrewlopanik) · [website](https://alopanik.com)
 
 ---
