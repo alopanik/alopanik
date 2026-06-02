@@ -1,7 +1,7 @@
 <h1 align="center">Andrew Lopanik</h1>
 
 <p align="center">
-  <b>Principal Product Manager</b> &nbsp;·&nbsp; <b>Builder</b> &nbsp;·&nbsp; <b>Technical problem solver</b>
+  <b>Product Manager</b> &nbsp;·&nbsp; <b>Builder</b> &nbsp;·&nbsp; <b>Technical problem solver</b>
 </p>
 
 <p align="center">
